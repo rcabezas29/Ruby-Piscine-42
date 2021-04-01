@@ -8,4 +8,4 @@ a.each do |x|
         b << x + 2
     end
 end
-p b
+p b.uniq
